@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import CatComponent from './ExampleComponent'
+import CatComponent from './CatComponent'
 import GraceHopperQuoteComponent from './GraceHopperQuoteComponent'
 import MouseComponent from './MouseComponent'
 

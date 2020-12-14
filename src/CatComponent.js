@@ -10,5 +10,5 @@ export default class CatComponent extends Component {
   }
 }
 
-export default CatComponent;
+// export default CatComponent;
 
